@@ -10,7 +10,9 @@ and open the template in the editor.
         <title>Introduccion PHP</title>
     </head>
     <body>
+        include 'sumarDosNumero.php';
         <?php
+            
             echo "Hola mundo en PHP";
         ?>
     </body>
