@@ -78,6 +78,9 @@ function saludar() {
     print "Buenos Dias";
 }
 
+function mostrarnumero() {
+    echo "<p> Este es el numero 67 </p>";
+}
 
 ejemploDeTipoBoolean();
 operaciones();
