@@ -74,6 +74,10 @@ function definicionDeConstantes() {
             
     echo CANTIDAD_MAXIMA*NUMERO_LLANTAS;   //para imprimirlos no utilizar comillas ni nada
 }
+function saludar() {
+    print "Buenos Dias";
+}
+
 
 ejemploDeTipoBoolean();
 operaciones();
